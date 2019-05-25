@@ -1,6 +1,6 @@
 # Site settings
-title: CLive Blog
-SEOTitle: 颜文武的个人博客 | ciscolive Blog
+title: ciscolive
+SEOTitle: 颜文武的博客 | ciscolive
 header-img: img/home-bg.jpg
 email: 968828@gmail.com
 description: "关于程序与设计、网络工程师 | 颜文武，Network Engineer | 这里是 @颜文武 的个人博客，与你一起发现更大的世界。"
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     ciscolive
+#weibo_username:     ciscolive
 zhihu_username:     ciscolive
 github_username:    ciscolive
 twitter_username:   perlnew
