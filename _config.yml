@@ -1,6 +1,6 @@
 # Site settings
-title: 知识改变命运
-SEOTitle: 颜文武的个人博客
+title: 十里荷花
+SEOTitle: careline的个人博客
 header-img: img/home-bg.jpg
 email: 968828@gmail.com
 description: "关于程序与设计、网络工程师 | 颜文武，Network Engineer | 这里是 @颜文武 的个人博客，与你一起发现更大的世界。"
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: ciscolive
+disqus_username: webank
 
 # Netease settings
 netease_comment: false
@@ -103,10 +103,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    }
+         title: "ciscolive",
+         href: "https://ciscolive.github.io"
+     }
 ]
